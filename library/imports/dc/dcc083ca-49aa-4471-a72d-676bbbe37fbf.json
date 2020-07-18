@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gear",
+    "texture": "2bb160f7-9ab8-4de8-8682-a5f87a3195b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      39,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
