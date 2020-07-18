@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ditu2",
+    "texture": "c89eb737-d70f-4110-a923-9ff8eba1cacf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2160,
+      1440
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2160,
+      1440
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

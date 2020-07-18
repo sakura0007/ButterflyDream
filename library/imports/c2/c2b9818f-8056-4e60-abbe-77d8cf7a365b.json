@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "KEYUI2",
+    "texture": "80b6ed9a-f6e4-4803-84ce-4ad70e12b98c",
+    "atlas": "",
+    "rect": [
+      30,
+      57,
+      162,
+      165
+    ],
+    "offset": [
+      9.5,
+      -26.5
+    ],
+    "originalSize": [
+      203,
+      226
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

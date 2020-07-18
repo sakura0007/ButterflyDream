@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wheel-4",
+    "texture": "d895220e-3bd3-4b21-b15f-e30ec9058bd6",
+    "atlas": "",
+    "rect": [
+      123,
+      122,
+      39,
+      39
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      283,
+      283
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
