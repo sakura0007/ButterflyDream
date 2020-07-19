@@ -1,2100 +1,272 @@
-2020-07-17T01:34:04.695Z - normal: Load ~/.CocosCreator/settings.json
-2020-07-17T01:34:05.964Z - normal: Initializing Asset Database
-2020-07-17T01:34:05.970Z - normal: checking language setting...
-2020-07-17T01:34:05.971Z - normal: Language: zh
-2020-07-17T01:34:07.458Z - success: preview server running at http://localhost:7456
-2020-07-17T01:34:07.463Z - success: protocol editor-framework registered
-2020-07-17T01:34:07.463Z - success: protocol app registered
-2020-07-17T01:34:07.463Z - success: protocol theme registered
-2020-07-17T01:34:07.463Z - success: protocol packages registered
-2020-07-17T01:34:07.463Z - success: protocol uuid registerred
-2020-07-17T01:34:07.463Z - success: protocol db registerred
-2020-07-17T01:34:07.464Z - success: protocol thumbnail registerred
-2020-07-17T01:34:07.464Z - success: protocol unpack registerred
-2020-07-17T01:34:07.464Z - success: protocol disable-commonjs registerred
-2020-07-17T01:34:07.778Z - normal: connected!
-2020-07-17T01:34:07.782Z - normal: Check project W:\CocosProject\ButterflyDream
-2020-07-17T01:34:07.789Z - normal: Initializing project W:\CocosProject\ButterflyDream
-2020-07-17T01:34:08.552Z - normal: Initializing Cocos2d
-2020-07-17T01:34:10.260Z - normal: Initializing engine extends
-2020-07-17T01:34:10.334Z - success: asset-db-debugger loaded
-2020-07-17T01:34:10.339Z - success: baidu-adapter loaded
-2020-07-17T01:34:10.343Z - success: color-picker loaded
-2020-07-17T01:34:10.543Z - success: fb-audience-network loaded
-2020-07-17T01:34:10.717Z - success: fb-live-stream loaded
-2020-07-17T01:34:10.723Z - success: google-play-instant loaded
-2020-07-17T01:34:10.737Z - success: huawei-runtime loaded
-2020-07-17T01:34:11.246Z - success: cpk-publish loaded
-2020-07-17T01:34:11.247Z - success: jsb-adapter loaded
-2020-07-17T01:34:11.257Z - success: oppo-runtime loaded
-2020-07-17T01:34:11.263Z - success: package-manager loaded
-2020-07-17T01:34:11.520Z - success: qqplay-adapter loaded
-2020-07-17T01:34:11.525Z - success: runtime-dev-tools loaded
-2020-07-17T01:34:11.532Z - success: sdkbox loaded
-2020-07-17T01:34:11.538Z - success: tester loaded
-2020-07-17T01:34:11.542Z - success: ui-grid loaded
-2020-07-17T01:34:11.545Z - success: ui-kit-preview-extra loaded
-2020-07-17T01:34:11.551Z - success: ui-kit-preview loaded
-2020-07-17T01:34:11.554Z - success: ui-kit loaded
-2020-07-17T01:34:11.557Z - success: ui-tree loaded
-2020-07-17T01:34:11.572Z - success: vivo-runtime loaded
-2020-07-17T01:34:11.573Z - success: weapp-adapter loaded
-2020-07-17T01:34:11.574Z - success: xiaomi-adapter loaded
-2020-07-17T01:34:11.636Z - success: assets loaded
-2020-07-17T01:34:11.640Z - success: builder loaded
-2020-07-17T01:34:12.176Z - success: cocos-services loaded
-2020-07-17T01:34:12.184Z - success: console loaded
-2020-07-17T01:34:12.234Z - success: fb-instant-games loaded
-2020-07-17T01:34:12.240Z - success: game-window loaded
-2020-07-17T01:34:12.243Z - success: google-instant-games loaded
-2020-07-17T01:34:12.250Z - success: hierarchy loaded
-2020-07-17T01:34:12.257Z - success: inspector loaded
-2020-07-17T01:34:12.260Z - success: keystore loaded
-2020-07-17T01:34:12.268Z - success: node-library loaded
-2020-07-17T01:34:12.273Z - success: package-asset loaded
-2020-07-17T01:34:12.275Z - success: preferences loaded
-2020-07-17T01:34:12.278Z - success: project-exporter loaded
-2020-07-17T01:34:12.288Z - success: project-importer loaded
-2020-07-17T01:34:12.292Z - success: project-settings loaded
-2020-07-17T01:34:12.298Z - success: scene loaded
-2020-07-17T01:34:12.302Z - success: simulator-debugger loaded
-2020-07-17T01:34:12.304Z - success: sprite-editor loaded
-2020-07-17T01:34:12.311Z - success: store loaded
-2020-07-17T01:34:12.320Z - success: timeline loaded
-2020-07-17T01:34:12.329Z - success: xiaomi-runtime loaded
-2020-07-17T01:34:14.385Z - normal: Loading packages
-2020-07-17T01:34:14.395Z - normal: Watching packages
-2020-07-17T01:34:15.064Z - normal: Run Application
-2020-07-17T01:34:15.235Z - info: Cocos Services load base data!
-2020-07-17T01:35:53.167Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2020-07-17T01:35:53.170Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2020-07-17T01:35:53.171Z - normal: Simulator: FRAME SCALE = 1.00
-2020-07-17T01:35:53.429Z - normal: Simulator: Ready for GLSL
-2020-07-17T01:35:53.431Z - normal: Simulator: Ready for OpenGL 2.0
-2020-07-17T01:35:53.431Z - normal: Simulator: Project Config:
-2020-07-17T01:35:53.431Z - normal: Simulator:     project dir: W:\CocosCreator_2.1.2\resources\cocos2d-x\simulator\win32\
-2020-07-17T01:35:53.432Z - normal: Simulator:     writable path: $(PROJDIR)\
-2020-07-17T01:35:53.432Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2020-07-17T01:35:53.432Z - normal: Simulator:     frame size: 1334 x 720
-2020-07-17T01:35:53.433Z - normal: Simulator:     frame scale: 1.00
-2020-07-17T01:35:53.433Z - normal: Simulator:     show console: NO
-2020-07-17T01:35:53.433Z - normal: Simulator:     write debug log: NO ()
-2020-07-17T01:35:53.434Z - normal: Simulator:     listen: 
-2020-07-17T01:35:53.434Z - normal: Simulator:     debugger: none
-2020-07-17T01:35:53.434Z - normal: Simulator:     add searching path:
-2020-07-17T01:35:53.435Z - normal: Simulator: 
-2020-07-17T01:35:53.437Z - normal: Simulator: 
-2020-07-17T01:35:53.439Z - normal: Simulator: 
-2020-07-17T01:35:53.439Z - normal: Simulator: resetDesignResolution request
-2020-07-17T01:35:53.440Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:35:53.441Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2020-07-17T01:35:53.442Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:35:53.442Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2020-07-17T01:35:54.028Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2020-07-17T01:35:54.034Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2020-07-17T01:35:54.034Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2020-07-17T01:35:54.152Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2020-07-17T01:35:54.156Z - normal: Simulator: resetDesignResolution request
-2020-07-17T01:35:54.156Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:35:54.156Z - normal: Simulator: LOAD Js FILE: main.js
-2020-07-17T01:35:54.157Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:35:54.649Z - normal: Simulator: D/jswrapper (129): JS: No need to specify the "type" of "cc.EditBox._N$fontColor" because cc.Color is a child class of ValueType. Just set the default value to 'new cc.Color()' and it will be handled properly. cc.EditBox _N$fontColor cc.Color
-2020-07-17T01:35:54.668Z - normal: Simulator: D/jswrapper (129): JS: No need to specify the "type" of "cc.EditBox._N$placeholderFontColor" because cc.Color is a child class of ValueType. Just set the default value to 'new cc.Color()' and it will be handled properly. cc.EditBox _N$placeholderFontColor cc.Color
-2020-07-17T01:35:54.871Z - normal: Simulator: iShow!
-2020-07-17T01:35:54.922Z - normal: Simulator: D/jswrapper (4159): glGetIntegerv: pname: 0x8b4c
-2020-07-17T01:35:55.059Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.1.2
-2020-07-17T01:35:57.258Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 410.00)obstacle: (1029.98, 360.00)
-2020-07-17T01:35:57.259Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.290Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 356.67)
-2020-07-17T01:35:57.291Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.292Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 353.33)
-2020-07-17T01:35:57.293Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.323Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 349.94)
-2020-07-17T01:35:57.327Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.333Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 346.30)
-2020-07-17T01:35:57.333Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.354Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 341.79)
-2020-07-17T01:35:57.354Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.369Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 338.45)
-2020-07-17T01:35:57.383Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.387Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 335.12)
-2020-07-17T01:35:57.399Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.413Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 331.54)
-2020-07-17T01:35:57.413Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.443Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 326.82)
-2020-07-17T01:35:57.443Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.447Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 322.78)
-2020-07-17T01:35:57.447Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.466Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 319.39)
-2020-07-17T01:35:57.466Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.500Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 315.39)
-2020-07-17T01:35:57.500Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.519Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 308.37)
-2020-07-17T01:35:57.522Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.535Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 305.04)
-2020-07-17T01:35:57.538Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.558Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 301.44)
-2020-07-17T01:35:57.573Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.581Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 298.09)
-2020-07-17T01:35:57.581Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.603Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 294.01)
-2020-07-17T01:35:57.605Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.616Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 289.31)
-2020-07-17T01:35:57.616Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.630Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 285.67)
-2020-07-17T01:35:57.631Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.650Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 282.33)
-2020-07-17T01:35:57.651Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.665Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 278.99)
-2020-07-17T01:35:57.666Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.685Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 275.57)
-2020-07-17T01:35:57.685Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.709Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 271.46)
-2020-07-17T01:35:57.710Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.720Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 268.13)
-2020-07-17T01:35:57.734Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.737Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 264.64)
-2020-07-17T01:35:57.738Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.762Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 261.29)
-2020-07-17T01:35:57.763Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.783Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (1029.98, 257.81)
-2020-07-17T01:35:57.784Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.802Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 254.27)
-2020-07-17T01:35:57.804Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.809Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 250.49)
-2020-07-17T01:35:57.811Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.830Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 246.77)
-2020-07-17T01:35:57.831Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.851Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 243.43)
-2020-07-17T01:35:57.852Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.866Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 240.10)
-2020-07-17T01:35:57.866Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.885Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 236.20)
-2020-07-17T01:35:57.885Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.911Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 232.22)
-2020-07-17T01:35:57.912Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:57.921Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (1029.98, 228.35)
-2020-07-17T01:35:57.921Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.808Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 409.00)obstacle: (946.88, 361.88)
-2020-07-17T01:35:59.809Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.826Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 358.54)
-2020-07-17T01:35:59.826Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.844Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 355.21)
-2020-07-17T01:35:59.845Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.863Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 351.80)
-2020-07-17T01:35:59.864Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.894Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 348.46)
-2020-07-17T01:35:59.894Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.922Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 341.63)
-2020-07-17T01:35:59.923Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.936Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 338.10)
-2020-07-17T01:35:59.940Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.955Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 334.29)
-2020-07-17T01:35:59.955Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.972Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 330.96)
-2020-07-17T01:35:59.973Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:35:59.993Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 327.63)
-2020-07-17T01:35:59.994Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:00.033Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 323.98)
-2020-07-17T01:36:00.033Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:00.066Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (946.88, 316.58)
-2020-07-17T01:36:00.073Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:00.103Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (946.88, 307.53)
-2020-07-17T01:36:00.105Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:00.155Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (946.88, 301.78)
-2020-07-17T01:36:00.155Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:00.156Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (946.88, 295.67)
-2020-07-17T01:36:00.156Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:00.160Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (946.88, 291.72)
-2020-07-17T01:36:00.162Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:00.177Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (946.88, 288.34)
-2020-07-17T01:36:00.177Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:00.203Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (946.88, 285.01)
-2020-07-17T01:36:00.204Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:03.950Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 409.00)obstacle: (683.50, 585.58)
-2020-07-17T01:36:03.952Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:03.965Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (683.50, 582.24)
-2020-07-17T01:36:03.968Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:03.982Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (683.50, 578.83)
-2020-07-17T01:36:03.982Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.454Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 409.00)obstacle: (592.22, 575.49)
-2020-07-17T01:36:04.455Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.476Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 572.09)
-2020-07-17T01:36:04.477Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.497Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 568.75)
-2020-07-17T01:36:04.497Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.516Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 565.25)
-2020-07-17T01:36:04.516Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.723Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 561.81)
-2020-07-17T01:36:04.725Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.725Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 558.41)
-2020-07-17T01:36:04.725Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.727Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 555.08)
-2020-07-17T01:36:04.728Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.729Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 551.75)
-2020-07-17T01:36:04.730Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.731Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 548.41)
-2020-07-17T01:36:04.731Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.732Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 545.07)
-2020-07-17T01:36:04.732Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.732Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 541.74)
-2020-07-17T01:36:04.733Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.734Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 538.38)
-2020-07-17T01:36:04.734Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.734Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 535.04)
-2020-07-17T01:36:04.735Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.737Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 531.71)
-2020-07-17T01:36:04.737Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.738Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 528.37)
-2020-07-17T01:36:04.739Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.742Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 525.04)
-2020-07-17T01:36:04.742Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.764Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 519.58)
-2020-07-17T01:36:04.765Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.770Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 516.24)
-2020-07-17T01:36:04.771Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.791Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 512.33)
-2020-07-17T01:36:04.791Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.810Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 507.80)
-2020-07-17T01:36:04.810Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.828Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 504.20)
-2020-07-17T01:36:04.829Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.849Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 500.84)
-2020-07-17T01:36:04.850Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.866Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 496.58)
-2020-07-17T01:36:04.867Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.888Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 493.24)
-2020-07-17T01:36:04.889Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.889Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 489.90)
-2020-07-17T01:36:04.890Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.924Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 486.38)
-2020-07-17T01:36:04.925Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.925Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 481.81)
-2020-07-17T01:36:04.925Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.948Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 478.47)
-2020-07-17T01:36:04.948Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.966Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (592.22, 475.13)
-2020-07-17T01:36:04.967Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:04.985Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 471.78)
-2020-07-17T01:36:04.985Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.005Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 468.37)
-2020-07-17T01:36:05.008Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.017Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 464.94)
-2020-07-17T01:36:05.017Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.032Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 460.39)
-2020-07-17T01:36:05.033Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.077Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 457.06)
-2020-07-17T01:36:05.078Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.079Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 453.53)
-2020-07-17T01:36:05.079Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.089Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 450.20)
-2020-07-17T01:36:05.091Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.101Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 446.87)
-2020-07-17T01:36:05.104Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.124Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 443.53)
-2020-07-17T01:36:05.124Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.133Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 440.20)
-2020-07-17T01:36:05.133Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.149Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 436.87)
-2020-07-17T01:36:05.157Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.172Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 433.53)
-2020-07-17T01:36:05.173Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.184Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 430.19)
-2020-07-17T01:36:05.187Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:05.209Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (592.22, 426.86)
-2020-07-17T01:36:05.209Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.415Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 410.00)obstacle: (672.30, 423.53)
-2020-07-17T01:36:17.416Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.434Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 420.18)
-2020-07-17T01:36:17.439Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.461Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 416.79)
-2020-07-17T01:36:17.461Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.473Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 413.46)
-2020-07-17T01:36:17.476Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.509Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 410.12)
-2020-07-17T01:36:17.510Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.511Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 406.70)
-2020-07-17T01:36:17.511Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.538Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 403.37)
-2020-07-17T01:36:17.539Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.564Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 400.03)
-2020-07-17T01:36:17.564Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.565Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 396.66)
-2020-07-17T01:36:17.565Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.611Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 393.33)
-2020-07-17T01:36:17.611Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.611Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 389.99)
-2020-07-17T01:36:17.612Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.637Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 386.65)
-2020-07-17T01:36:17.640Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.644Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 383.32)
-2020-07-17T01:36:17.644Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.645Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 379.98)
-2020-07-17T01:36:17.645Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.695Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 376.65)
-2020-07-17T01:36:17.695Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.696Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 412.00)obstacle: (672.30, 373.31)
-2020-07-17T01:36:17.696Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.697Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (672.30, 369.97)
-2020-07-17T01:36:17.698Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.731Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (672.30, 366.65)
-2020-07-17T01:36:17.732Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.732Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (672.30, 363.21)
-2020-07-17T01:36:17.732Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:17.780Z - normal: Simulator: D/jswrapper (129): JS: newVec2: (667.00, 411.00)obstacle: (672.30, 359.88)
-2020-07-17T01:36:17.780Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:36:35.916Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2020-07-17T01:36:35.916Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 50, all objects: 126
-2020-07-17T01:36:36.005Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 50, all objects: 126
-2020-07-17T01:36:36.006Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 50, all objects: 126
-2020-07-17T01:36:36.091Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 50, all objects: 126
-2020-07-17T01:36:36.096Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (3) by GC
-2020-07-17T01:36:36.097Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (6) by GC
-2020-07-17T01:36:36.100Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (8) by GC
-2020-07-17T01:36:36.101Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (6) by GC
-2020-07-17T01:36:36.104Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (1) by GC
-2020-07-17T01:36:36.105Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (2) by GC
-2020-07-17T01:36:36.105Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (4) by GC
-2020-07-17T01:36:36.105Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (5) by GC
-2020-07-17T01:36:36.106Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (7) by GC
-2020-07-17T01:36:36.107Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (8) by GC
-2020-07-17T01:36:36.108Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (9) by GC
-2020-07-17T01:36:36.108Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (1) by GC
-2020-07-17T01:36:36.108Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (14) by GC
-2020-07-17T01:36:36.108Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (2) by GC
-2020-07-17T01:36:36.109Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (29) by GC
-2020-07-17T01:36:36.109Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (26) by GC
-2020-07-17T01:36:36.109Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (4) by GC
-2020-07-17T01:36:36.109Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (3) by GC
-2020-07-17T01:36:36.110Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (5) by GC
-2020-07-17T01:36:36.111Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (7) by GC
-2020-07-17T01:36:36.111Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (9) by GC
-2020-07-17T01:36:36.112Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (22) by GC
-2020-07-17T01:36:36.112Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (10) by GC
-2020-07-17T01:36:36.113Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (21) by GC
-2020-07-17T01:36:36.113Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (20) by GC
-2020-07-17T01:36:36.113Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (11) by GC
-2020-07-17T01:36:36.114Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (12) by GC
-2020-07-17T01:36:36.114Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (13) by GC
-2020-07-17T01:36:36.114Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (16) by GC
-2020-07-17T01:36:36.114Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (15) by GC
-2020-07-17T01:36:36.114Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (17) by GC
-2020-07-17T01:36:36.115Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (18) by GC
-2020-07-17T01:36:36.115Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (23) by GC
-2020-07-17T01:36:36.115Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (19) by GC
-2020-07-17T01:36:36.116Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (24) by GC
-2020-07-17T01:36:36.116Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (25) by GC
-2020-07-17T01:36:36.116Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (27) by GC
-2020-07-17T01:36:36.116Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (28) by GC
-2020-07-17T01:36:36.116Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (10) by GC
-2020-07-17T01:36:36.117Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (3) by GC
-2020-07-17T01:36:36.117Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (6) by GC
-2020-07-17T01:36:36.117Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2020-07-17T01:36:36.209Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2020-07-17T01:36:36.217Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2020-07-17T01:36:36.374Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
-2020-07-17T01:42:11.510Z - normal: cocos2d: TMXFormat: Unsupported TMX version: 1.2
-2020-07-17T01:44:32.950Z - normal: cocos2d: TMXFormat: Unsupported TMX version: 1.2
-2020-07-17T01:44:34.917Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2020-07-17T01:44:34.919Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2020-07-17T01:44:34.920Z - normal: Simulator: FRAME SCALE = 1.00
-2020-07-17T01:44:35.236Z - normal: Simulator: Ready for GLSL
-2020-07-17T01:44:35.236Z - normal: Simulator: Ready for OpenGL 2.0
-2020-07-17T01:44:35.237Z - normal: Simulator: Project Config:
-2020-07-17T01:44:35.242Z - normal: Simulator:     project dir: W:\CocosCreator_2.1.2\resources\cocos2d-x\simulator\win32\
-2020-07-17T01:44:35.243Z - normal: Simulator:     writable path: $(PROJDIR)\
-2020-07-17T01:44:35.243Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2020-07-17T01:44:35.243Z - normal: Simulator:     frame size: 1334 x 720
-2020-07-17T01:44:35.244Z - normal: Simulator:     frame scale: 1.00
-2020-07-17T01:44:35.245Z - normal: Simulator:     show console: NO
-2020-07-17T01:44:35.245Z - normal: Simulator:     write debug log: NO ()
-2020-07-17T01:44:35.245Z - normal: Simulator:     listen: 
-2020-07-17T01:44:35.246Z - normal: Simulator:     debugger: none
-2020-07-17T01:44:35.246Z - normal: Simulator:     add searching path:
-2020-07-17T01:44:35.246Z - normal: Simulator: 
-2020-07-17T01:44:35.246Z - normal: Simulator: 
-2020-07-17T01:44:35.247Z - normal: Simulator: 
-2020-07-17T01:44:35.247Z - normal: Simulator: resetDesignResolution request
-2020-07-17T01:44:35.247Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:44:35.247Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2020-07-17T01:44:35.247Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:44:35.248Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2020-07-17T01:44:36.057Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2020-07-17T01:44:36.057Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2020-07-17T01:44:36.058Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2020-07-17T01:44:36.173Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2020-07-17T01:44:36.178Z - normal: Simulator: resetDesignResolution request
-2020-07-17T01:44:36.180Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:44:36.181Z - normal: Simulator: LOAD Js FILE: main.js
-2020-07-17T01:44:36.181Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:44:36.747Z - normal: Simulator: D/jswrapper (129): JS: No need to specify the "type" of "cc.EditBox._N$fontColor" because cc.Color is a child class of ValueType. Just set the default value to 'new cc.Color()' and it will be handled properly. cc.EditBox _N$fontColor cc.Color
-2020-07-17T01:44:36.767Z - normal: Simulator: D/jswrapper (129): JS: No need to specify the "type" of "cc.EditBox._N$placeholderFontColor" because cc.Color is a child class of ValueType. Just set the default value to 'new cc.Color()' and it will be handled properly. cc.EditBox _N$placeholderFontColor cc.Color
-2020-07-17T01:44:37.034Z - normal: Simulator: iShow!
-2020-07-17T01:44:37.105Z - normal: Simulator: D/jswrapper (4159): glGetIntegerv: pname: 0x8b4c
-2020-07-17T01:44:37.306Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.1.2
-2020-07-17T01:44:38.401Z - normal: Simulator: D/jswrapper (129): JS: cocos2d: TMXFormat: Unsupported TMX version: 1.2
-2020-07-17T01:44:38.652Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
-E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-2020-07-17T01:44:38.690Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.691Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.691Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.692Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.805Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.807Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.809Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.825Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.826Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.828Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.868Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.870Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.871Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.890Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.929Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.966Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.967Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.967Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:38.967Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.026Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.031Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.038Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.048Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.050Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.052Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.058Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.061Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.098Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.099Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.145Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.175Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.176Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.211Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.212Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.236Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.245Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.262Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.263Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.263Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.264Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.265Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.279Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.373Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.374Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.375Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.378Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.410Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.450Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.462Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.464Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.475Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.578Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.579Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.610Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.611Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.619Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.626Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.627Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.629Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.631Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.632Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.633Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.634Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.635Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.643Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.712Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.715Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.717Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.728Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.732Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.734Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.745Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.782Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.783Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.796Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.797Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.798Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.799Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.800Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.881Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.915Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.942Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.946Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.949Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.951Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.952Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.955Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:39.972Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.003Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.006Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.007Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.008Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.056Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.057Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.141Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.144Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.147Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.152Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.155Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.186Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.207Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.208Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.217Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.358Z - error: Simulator: E/jswrapper (271): ERROR: Uncaught TypeError: Cannot read property 'getComponent' of null, location: assets/resources/Prefab/Player/Player_1.js:0:0
-STACK:
-[0]update@assets/resources/Prefab/Player/Player_1.js:129
-[1]anonymous@(no filename):3
-[2]invoke@src/cocos2d-jsb.js:14974
-[3]updatePhase@src/cocos2d-jsb.js:15084
-[4]mainLoop@src/cocos2d-jsb.js:9497
-[5]callback@src/cocos2d-jsb.js:9737
-[6]tick@jsb-adapter/jsb-builtin.js:2001
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.358Z - error: Simulator: E/jswrapper (534): [ERROR] (..\cocos\scripting\js-bindings\jswrapper\v8\Object.cpp, 534): Invoking function (08F2DF40) failed!
-    at HTMLElement.print-simulator-log (W:\CocosCreator_2.1.2\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1669)
-    at Object.e._dispatch (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (W:\CocosCreator_2.1.2\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2921)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2020-07-17T01:44:40.359Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2020-07-17T01:44:40.360Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 41, all objects: 117
-2020-07-17T01:44:40.434Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 41, all objects: 117
-2020-07-17T01:44:40.435Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 41, all objects: 117
-2020-07-17T01:44:40.708Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 41, all objects: 117
-2020-07-17T01:44:40.710Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (3) by GC
-2020-07-17T01:44:40.711Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (19) by GC
-2020-07-17T01:44:40.713Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (5) by GC
-2020-07-17T01:44:40.713Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (1) by GC
-2020-07-17T01:44:40.715Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (6) by GC
-2020-07-17T01:44:40.717Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (2) by GC
-2020-07-17T01:44:40.718Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (25) by GC
-2020-07-17T01:44:40.720Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (15) by GC
-2020-07-17T01:44:40.728Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (4) by GC
-2020-07-17T01:44:40.729Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (7) by GC
-2020-07-17T01:44:40.729Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (11) by GC
-2020-07-17T01:44:40.729Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (7) by GC
-2020-07-17T01:44:40.729Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (8) by GC
-2020-07-17T01:44:40.730Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (1) by GC
-2020-07-17T01:44:40.730Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (3) by GC
-2020-07-17T01:44:40.731Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (2) by GC
-2020-07-17T01:44:40.731Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (23) by GC
-2020-07-17T01:44:40.731Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (4) by GC
-2020-07-17T01:44:40.745Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (5) by GC
-2020-07-17T01:44:40.745Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (6) by GC
-2020-07-17T01:44:40.746Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (10) by GC
-2020-07-17T01:44:40.746Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (9) by GC
-2020-07-17T01:44:40.748Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (8) by GC
-2020-07-17T01:44:40.748Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (12) by GC
-2020-07-17T01:44:40.749Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (13) by GC
-2020-07-17T01:44:40.749Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (14) by GC
-2020-07-17T01:44:40.749Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (16) by GC
-2020-07-17T01:44:40.750Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (17) by GC
-2020-07-17T01:44:40.750Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (20) by GC
-2020-07-17T01:44:40.751Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (18) by GC
-2020-07-17T01:44:40.752Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (24) by GC
-2020-07-17T01:44:40.752Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (21) by GC
-2020-07-17T01:44:40.753Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (26) by GC
-2020-07-17T01:44:40.756Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (22) by GC
-2020-07-17T01:44:40.758Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (27) by GC
-2020-07-17T01:44:40.758Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (28) by GC
-2020-07-17T01:44:40.759Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2020-07-17T01:44:40.777Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2020-07-17T01:44:40.779Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2020-07-17T01:45:02.326Z - normal: cocos2d: TMXFormat: Unsupported TMX version: 1.2
-2020-07-17T01:45:04.770Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2020-07-17T01:45:04.771Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
-2020-07-17T01:45:04.771Z - normal: Simulator: FRAME SCALE = 1.00
-2020-07-17T01:45:05.118Z - normal: Simulator: Ready for GLSL
-2020-07-17T01:45:05.118Z - normal: Simulator: Ready for OpenGL 2.0
-2020-07-17T01:45:05.119Z - normal: Simulator: Project Config:
-2020-07-17T01:45:05.119Z - normal: Simulator:     project dir: W:\CocosCreator_2.1.2\resources\cocos2d-x\simulator\win32\
-2020-07-17T01:45:05.123Z - normal: Simulator:     writable path: $(PROJDIR)\
-2020-07-17T01:45:05.124Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2020-07-17T01:45:05.124Z - normal: Simulator:     frame size: 1334 x 720
-2020-07-17T01:45:05.124Z - normal: Simulator:     frame scale: 1.00
-2020-07-17T01:45:05.125Z - normal: Simulator:     show console: NO
-2020-07-17T01:45:05.125Z - normal: Simulator:     write debug log: NO ()
-2020-07-17T01:45:05.125Z - normal: Simulator:     listen: 
-2020-07-17T01:45:05.125Z - normal: Simulator:     debugger: none
-2020-07-17T01:45:05.126Z - normal: Simulator:     add searching path:
-2020-07-17T01:45:05.126Z - normal: Simulator: 
-2020-07-17T01:45:05.126Z - normal: Simulator: 
-2020-07-17T01:45:05.127Z - normal: Simulator: 
-2020-07-17T01:45:05.127Z - normal: Simulator: resetDesignResolution request
-2020-07-17T01:45:05.127Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:45:05.127Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2020-07-17T01:45:05.128Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:45:05.128Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2020-07-17T01:45:05.654Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2020-07-17T01:45:05.655Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2020-07-17T01:45:05.656Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2020-07-17T01:45:05.730Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2020-07-17T01:45:05.730Z - normal: Simulator: resetDesignResolution request
-2020-07-17T01:45:05.730Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:45:05.730Z - normal: Simulator: LOAD Js FILE: main.js
-2020-07-17T01:45:05.731Z - normal: Simulator: ------------------------------------------------
-2020-07-17T01:45:06.158Z - normal: Simulator: D/jswrapper (129): JS: No need to specify the "type" of "cc.EditBox._N$fontColor" because cc.Color is a child class of ValueType. Just set the default value to 'new cc.Color()' and it will be handled properly. cc.EditBox _N$fontColor cc.Color
-2020-07-17T01:45:06.179Z - normal: Simulator: D/jswrapper (129): JS: No need to specify the "type" of "cc.EditBox._N$placeholderFontColor" because cc.Color is a child class of ValueType. Just set the default value to 'new cc.Color()' and it will be handled properly. cc.EditBox _N$placeholderFontColor cc.Color
-2020-07-17T01:45:06.350Z - normal: Simulator: iShow!
-2020-07-17T01:45:06.391Z - normal: Simulator: D/jswrapper (4159): glGetIntegerv: pname: 0x8b4c
-2020-07-17T01:45:06.486Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.1.2
-2020-07-17T01:45:06.925Z - normal: Simulator: D/jswrapper (129): JS: cocos2d: TMXFormat: Unsupported TMX version: 1.2
-2020-07-17T01:45:14.323Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.349Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.381Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.382Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.419Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.440Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.448Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.449Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.465Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.491Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.515Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.516Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.550Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.602Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.626Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.626Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.643Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.644Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.649Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.670Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.694Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.700Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.700Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.740Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.740Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.778Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.781Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.815Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.834Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.834Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.852Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.866Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.897Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.898Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.899Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.923Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.955Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.956Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.977Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:14.999Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.018Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.032Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.042Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.076Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.077Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.107Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.108Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.134Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.135Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.157Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.226Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.226Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.239Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.245Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.247Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.269Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.275Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.296Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:15.329Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.140Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.169Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.198Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.200Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.212Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.233Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.252Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.274Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.297Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.318Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.332Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.343Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.364Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.365Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.384Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.406Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.426Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.449Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.450Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.488Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.500Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.509Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.527Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.534Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.560Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.635Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.635Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.657Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.693Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.699Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.718Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.744Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.745Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.768Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.790Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.813Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.814Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.850Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.863Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.873Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.890Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.915Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.915Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.936Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.966Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.982Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:17.985Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:18.025Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.328Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.345Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.375Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.378Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.405Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.424Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.449Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.467Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.491Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.492Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.516Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.524Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.551Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.591Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.595Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.614Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.641Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.641Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.653Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.662Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.680Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.705Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.705Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.723Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.742Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.763Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.807Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.808Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.815Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.831Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.848Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.870Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.873Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.893Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.912Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:19.945Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.465Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.484Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.499Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.525Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.533Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.567Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.569Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.606Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.616Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.625Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.634Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.661Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.668Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.684Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.708Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.728Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.751Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.767Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.785Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.810Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.811Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:20.830Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.072Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.076Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.102Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.112Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.130Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.142Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.174Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.175Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.195Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.218Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.219Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.242Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.269Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.270Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.307Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.318Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.330Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.350Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.351Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.372Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.391Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.410Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.439Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.455Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.473Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.485Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.494Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.510Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.529Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.575Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.576Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.596Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.597Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.639Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.648Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.648Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.678Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.679Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.699Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.718Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.745Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.745Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.765Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.812Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.825Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:23.825Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.644Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.666Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.691Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.695Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.717Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.739Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.765Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.775Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.802Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.803Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.826Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.844Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.867Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.867Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.890Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.925Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.936Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.944Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.964Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.966Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:24.986Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.007Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.013Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.032Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.071Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.073Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.118Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.128Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.129Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.161Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.163Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.187Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.191Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.214Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.237Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.239Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.271Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.274Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.309Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.322Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.331Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.346Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.370Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.372Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.392Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.409Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.429Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.452Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.453Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.496Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.508Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.524Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.539Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.542Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:25.580Z - normal: Simulator: D/jswrapper (129): JS: name: null
-2020-07-17T01:45:26.389Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2020-07-17T01:45:26.389Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 49, all objects: 125
-2020-07-17T01:45:26.481Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 49, all objects: 125
-2020-07-17T01:45:26.482Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 49, all objects: 125
-2020-07-17T01:45:26.561Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 49, all objects: 125
-2020-07-17T01:45:26.563Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (6) by GC
-2020-07-17T01:45:26.563Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (18) by GC
-2020-07-17T01:45:26.564Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (4) by GC
-2020-07-17T01:45:26.565Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (26) by GC
-2020-07-17T01:45:26.566Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (4) by GC
-2020-07-17T01:45:26.567Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (3) by GC
-2020-07-17T01:45:26.567Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (17) by GC
-2020-07-17T01:45:26.567Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (16) by GC
-2020-07-17T01:45:26.567Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (13) by GC
-2020-07-17T01:45:26.568Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (25) by GC
-2020-07-17T01:45:26.571Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (20) by GC
-2020-07-17T01:45:26.573Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (12) by GC
-2020-07-17T01:45:26.574Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (1) by GC
-2020-07-17T01:45:26.574Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (14) by GC
-2020-07-17T01:45:26.575Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (5) by GC
-2020-07-17T01:45:26.576Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (2) by GC
-2020-07-17T01:45:26.576Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (6) by GC
-2020-07-17T01:45:26.576Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (7) by GC
-2020-07-17T01:45:26.576Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (8) by GC
-2020-07-17T01:45:26.577Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (1) by GC
-2020-07-17T01:45:26.577Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (2) by GC
-2020-07-17T01:45:26.577Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (28) by GC
-2020-07-17T01:45:26.577Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (3) by GC
-2020-07-17T01:45:26.578Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (15) by GC
-2020-07-17T01:45:26.578Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (5) by GC
-2020-07-17T01:45:26.578Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (10) by GC
-2020-07-17T01:45:26.579Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (9) by GC
-2020-07-17T01:45:26.580Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (6) by GC
-2020-07-17T01:45:26.580Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (11) by GC
-2020-07-17T01:45:26.580Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (7) by GC
-2020-07-17T01:45:26.580Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (8) by GC
-2020-07-17T01:45:26.581Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (3) by GC
-2020-07-17T01:45:26.581Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (19) by GC
-2020-07-17T01:45:26.608Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (21) by GC
-2020-07-17T01:45:26.609Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (22) by GC
-2020-07-17T01:45:26.609Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (24) by GC
-2020-07-17T01:45:26.609Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (23) by GC
-2020-07-17T01:45:26.610Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (10) by GC
-2020-07-17T01:45:26.610Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (27) by GC
-2020-07-17T01:45:26.610Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (9) by GC
-2020-07-17T01:45:26.610Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2020-07-17T01:45:26.681Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2020-07-17T01:45:26.685Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2020-07-17T01:45:26.876Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
-2020-07-17T02:06:12.864Z - normal: cocos2d: TMXFormat: Unsupported TMX version: 1.2
+2020-07-19T10:16:16.833Z - normal: Load ~/.CocosCreator/settings.json
+2020-07-19T10:16:18.055Z - normal: Initializing Asset Database
+2020-07-19T10:16:18.059Z - normal: checking language setting...
+2020-07-19T10:16:18.059Z - normal: Language: zh
+2020-07-19T10:16:19.408Z - success: preview server running at http://localhost:7456
+2020-07-19T10:16:19.411Z - success: protocol editor-framework registered
+2020-07-19T10:16:19.411Z - success: protocol app registered
+2020-07-19T10:16:19.411Z - success: protocol theme registered
+2020-07-19T10:16:19.411Z - success: protocol packages registered
+2020-07-19T10:16:19.411Z - success: protocol uuid registerred
+2020-07-19T10:16:19.411Z - success: protocol db registerred
+2020-07-19T10:16:19.412Z - success: protocol thumbnail registerred
+2020-07-19T10:16:19.412Z - success: protocol unpack registerred
+2020-07-19T10:16:19.412Z - success: protocol disable-commonjs registerred
+2020-07-19T10:16:20.067Z - normal: connected!
+2020-07-19T10:16:20.072Z - normal: Check project W:\CocosProject\ButterflyDream
+2020-07-19T10:16:20.079Z - normal: Initializing project W:\CocosProject\ButterflyDream
+2020-07-19T10:16:20.765Z - normal: Initializing Cocos2d
+2020-07-19T10:16:22.304Z - normal: Initializing engine extends
+2020-07-19T10:16:22.334Z - success: asset-db-debugger loaded
+2020-07-19T10:16:22.336Z - success: baidu-adapter loaded
+2020-07-19T10:16:22.337Z - success: color-picker loaded
+2020-07-19T10:16:22.507Z - success: fb-audience-network loaded
+2020-07-19T10:16:22.586Z - success: fb-live-stream loaded
+2020-07-19T10:16:22.592Z - success: google-play-instant loaded
+2020-07-19T10:16:22.603Z - success: huawei-runtime loaded
+2020-07-19T10:16:23.043Z - success: cpk-publish loaded
+2020-07-19T10:16:23.045Z - success: jsb-adapter loaded
+2020-07-19T10:16:23.054Z - success: oppo-runtime loaded
+2020-07-19T10:16:23.059Z - success: package-manager loaded
+2020-07-19T10:16:23.292Z - success: qqplay-adapter loaded
+2020-07-19T10:16:23.295Z - success: runtime-dev-tools loaded
+2020-07-19T10:16:23.301Z - success: sdkbox loaded
+2020-07-19T10:16:23.307Z - success: tester loaded
+2020-07-19T10:16:23.310Z - success: ui-grid loaded
+2020-07-19T10:16:23.313Z - success: ui-kit-preview-extra loaded
+2020-07-19T10:16:23.316Z - success: ui-kit-preview loaded
+2020-07-19T10:16:23.318Z - success: ui-kit loaded
+2020-07-19T10:16:23.321Z - success: ui-tree loaded
+2020-07-19T10:16:23.331Z - success: vivo-runtime loaded
+2020-07-19T10:16:23.331Z - success: weapp-adapter loaded
+2020-07-19T10:16:23.333Z - success: xiaomi-adapter loaded
+2020-07-19T10:16:23.396Z - success: assets loaded
+2020-07-19T10:16:23.400Z - success: builder loaded
+2020-07-19T10:16:23.825Z - success: cocos-services loaded
+2020-07-19T10:16:24.200Z - success: console loaded
+2020-07-19T10:16:24.279Z - success: fb-instant-games loaded
+2020-07-19T10:16:24.286Z - success: game-window loaded
+2020-07-19T10:16:24.291Z - success: google-instant-games loaded
+2020-07-19T10:16:24.303Z - success: hierarchy loaded
+2020-07-19T10:16:24.312Z - success: inspector loaded
+2020-07-19T10:16:24.316Z - success: keystore loaded
+2020-07-19T10:16:24.329Z - success: node-library loaded
+2020-07-19T10:16:24.334Z - success: package-asset loaded
+2020-07-19T10:16:24.338Z - success: preferences loaded
+2020-07-19T10:16:24.341Z - success: project-exporter loaded
+2020-07-19T10:16:24.351Z - success: project-importer loaded
+2020-07-19T10:16:24.359Z - success: project-settings loaded
+2020-07-19T10:16:24.370Z - success: scene loaded
+2020-07-19T10:16:24.385Z - success: simulator-debugger loaded
+2020-07-19T10:16:24.388Z - success: sprite-editor loaded
+2020-07-19T10:16:24.396Z - success: store loaded
+2020-07-19T10:16:24.404Z - success: timeline loaded
+2020-07-19T10:16:24.411Z - success: xiaomi-runtime loaded
+2020-07-19T10:16:25.725Z - warn: [db-task][init] Backup unused meta file: db://assets/AnimationClip.meta
+2020-07-19T10:16:25.728Z - warn: [db-task][init] Backup unused meta file: db://assets/resources/BGM.meta
+2020-07-19T10:16:45.015Z - normal: Loading packages
+2020-07-19T10:16:45.028Z - normal: Watching packages
+2020-07-19T10:16:45.251Z - info: Cocos Services load base data!
+2020-07-19T10:16:45.849Z - normal: Run Application
+2020-07-19T10:17:03.039Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2020-07-19T10:17:03.039Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 773.00
+2020-07-19T10:17:03.039Z - normal: Simulator: FRAME SCALE = 1.00
+2020-07-19T10:17:03.305Z - normal: Simulator: Ready for GLSL
+2020-07-19T10:17:03.306Z - normal: Simulator: Ready for OpenGL 2.0
+2020-07-19T10:17:03.307Z - normal: Simulator: Project Config:
+2020-07-19T10:17:03.310Z - normal: Simulator:     project dir: W:\CocosCreator_2.1.2\resources\cocos2d-x\simulator\win32\
+2020-07-19T10:17:03.312Z - normal: Simulator:     writable path: $(PROJDIR)\
+2020-07-19T10:17:03.316Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2020-07-19T10:17:03.316Z - normal: Simulator:     frame size: 1334 x 720
+2020-07-19T10:17:03.317Z - normal: Simulator:     frame scale: 1.00
+2020-07-19T10:17:03.318Z - normal: Simulator:     show console: NO
+2020-07-19T10:17:03.319Z - normal: Simulator:     write debug log: NO ()
+2020-07-19T10:17:03.319Z - normal: Simulator:     listen: 
+2020-07-19T10:17:03.320Z - normal: Simulator:     debugger: none
+2020-07-19T10:17:03.320Z - normal: Simulator:     add searching path:
+2020-07-19T10:17:03.321Z - normal: Simulator: 
+2020-07-19T10:17:03.321Z - normal: Simulator: 
+2020-07-19T10:17:03.322Z - normal: Simulator: 
+2020-07-19T10:17:03.323Z - normal: Simulator: resetDesignResolution request
+2020-07-19T10:17:03.323Z - normal: Simulator: ------------------------------------------------
+2020-07-19T10:17:03.324Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2020-07-19T10:17:03.324Z - normal: Simulator: ------------------------------------------------
+2020-07-19T10:17:03.324Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2020-07-19T10:17:03.825Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2020-07-19T10:17:03.829Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2020-07-19T10:17:03.830Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2020-07-19T10:17:03.901Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2020-07-19T10:17:03.904Z - normal: Simulator: resetDesignResolution request
+2020-07-19T10:17:03.904Z - normal: Simulator: ------------------------------------------------
+2020-07-19T10:17:03.905Z - normal: Simulator: LOAD Js FILE: main.js
+2020-07-19T10:17:03.906Z - normal: Simulator: ------------------------------------------------
+2020-07-19T10:17:04.325Z - normal: Simulator: D/jswrapper (129): JS: No need to specify the "type" of "cc.EditBox._N$fontColor" because cc.Color is a child class of ValueType. Just set the default value to 'new cc.Color()' and it will be handled properly. cc.EditBox _N$fontColor cc.Color
+2020-07-19T10:17:04.335Z - normal: Simulator: D/jswrapper (129): JS: No need to specify the "type" of "cc.EditBox._N$placeholderFontColor" because cc.Color is a child class of ValueType. Just set the default value to 'new cc.Color()' and it will be handled properly. cc.EditBox _N$placeholderFontColor cc.Color
+2020-07-19T10:17:04.503Z - normal: Simulator: iShow!
+2020-07-19T10:17:04.550Z - normal: Simulator: D/jswrapper (4159): glGetIntegerv: pname: 0x8b4c
+2020-07-19T10:17:04.621Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.1.2
+2020-07-19T10:17:07.183Z - normal: Simulator: D/jswrapper (129): JS: LoadScene e865ce86-8122-4110-b360-36eeac9a1024: 194.77100000000019ms
+2020-07-19T10:17:07.218Z - normal: Simulator: D/jswrapper (129): JS: cocos2d: TMXFormat: Unsupported TMX version: 1.2
+2020-07-19T10:17:18.546Z - normal: Simulator: D/jswrapper (129): JS: 新建存档 Value:新建存档Node:[object Object]
+2020-07-19T10:17:21.971Z - normal: Simulator: D/jswrapper (129): JS: Value:Back_HomeNode:[object Object]
+2020-07-19T10:17:22.488Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 9aea1be2-f142-4ecc-bfcf-beac4b9c8990: 16.528000000002066ms
+2020-07-19T10:17:25.204Z - normal: Simulator: D/jswrapper (129): JS: LoadScene e865ce86-8122-4110-b360-36eeac9a1024: 16.376000000000204ms
+2020-07-19T10:17:25.208Z - normal: Simulator: D/jswrapper (129): JS: cocos2d: TMXFormat: Unsupported TMX version: 1.2
+2020-07-19T10:17:32.268Z - normal: Simulator: D/jswrapper (129): JS: Value:Off_GameNode:[object Object]
+2020-07-19T10:17:32.781Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2020-07-19T10:17:32.782Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 229, all objects: 344
+2020-07-19T10:17:32.831Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (33) by GC
+2020-07-19T10:17:32.831Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (34) by GC
+2020-07-19T10:17:32.831Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (35) by GC
+2020-07-19T10:17:32.832Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (36) by GC
+2020-07-19T10:17:32.834Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (61) by GC
+2020-07-19T10:17:32.834Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (62) by GC
+2020-07-19T10:17:32.834Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (9) by GC
+2020-07-19T10:17:32.835Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (10) by GC
+2020-07-19T10:17:32.835Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (11) by GC
+2020-07-19T10:17:32.835Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (12) by GC
+2020-07-19T10:17:32.836Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (13) by GC
+2020-07-19T10:17:32.836Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (14) by GC
+2020-07-19T10:17:32.837Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (32) by GC
+2020-07-19T10:17:32.837Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (31) by GC
+2020-07-19T10:17:32.839Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (30) by GC
+2020-07-19T10:17:32.842Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (29) by GC
+2020-07-19T10:17:32.842Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (28) by GC
+2020-07-19T10:17:32.843Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (27) by GC
+2020-07-19T10:17:32.843Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (26) by GC
+2020-07-19T10:17:32.843Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (25) by GC
+2020-07-19T10:17:32.843Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (24) by GC
+2020-07-19T10:17:32.844Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (23) by GC
+2020-07-19T10:17:32.844Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (17) by GC
+2020-07-19T10:17:32.844Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (19) by GC
+2020-07-19T10:17:32.844Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (18) by GC
+2020-07-19T10:17:32.844Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (20) by GC
+2020-07-19T10:17:32.845Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (21) by GC
+2020-07-19T10:17:32.845Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (22) by GC
+2020-07-19T10:17:32.894Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 157, all objects: 272
+2020-07-19T10:17:32.895Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (37) by GC
+2020-07-19T10:17:32.895Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (38) by GC
+2020-07-19T10:17:32.895Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (39) by GC
+2020-07-19T10:17:32.896Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (40) by GC
+2020-07-19T10:17:32.896Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (41) by GC
+2020-07-19T10:17:32.896Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (42) by GC
+2020-07-19T10:17:32.897Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (43) by GC
+2020-07-19T10:17:32.897Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (44) by GC
+2020-07-19T10:17:32.897Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (63) by GC
+2020-07-19T10:17:32.897Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (64) by GC
+2020-07-19T10:17:32.898Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 157, all objects: 272
+2020-07-19T10:17:32.976Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 157, all objects: 272
+2020-07-19T10:17:32.977Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (6) by GC
+2020-07-19T10:17:32.979Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (4) by GC
+2020-07-19T10:17:32.979Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (81) by GC
+2020-07-19T10:17:32.980Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (2) by GC
+2020-07-19T10:17:32.981Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (5) by GC
+2020-07-19T10:17:32.981Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (2) by GC
+2020-07-19T10:17:32.982Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (3) by GC
+2020-07-19T10:17:32.982Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (54) by GC
+2020-07-19T10:17:32.982Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (51) by GC
+2020-07-19T10:17:32.983Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (5) by GC
+2020-07-19T10:17:32.983Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (11) by GC
+2020-07-19T10:17:32.983Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (9) by GC
+2020-07-19T10:17:32.984Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (1) by GC
+2020-07-19T10:17:32.985Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (1) by GC
+2020-07-19T10:17:32.986Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (4) by GC
+2020-07-19T10:17:32.986Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (7) by GC
+2020-07-19T10:17:32.987Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (6) by GC
+2020-07-19T10:17:32.989Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (68) by GC
+2020-07-19T10:17:32.989Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (8) by GC
+2020-07-19T10:17:32.990Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (24) by GC
+2020-07-19T10:17:32.990Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (10) by GC
+2020-07-19T10:17:32.991Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (3) by GC
+2020-07-19T10:17:32.992Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (16) by GC
+2020-07-19T10:17:32.993Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (7) by GC
+2020-07-19T10:17:32.993Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (3) by GC
+2020-07-19T10:17:32.995Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (8) by GC
+2020-07-19T10:17:32.995Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (12) by GC
+2020-07-19T10:17:32.995Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (13) by GC
+2020-07-19T10:17:32.996Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (50) by GC
+2020-07-19T10:17:33.005Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (15) by GC
+2020-07-19T10:17:33.005Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (19) by GC
+2020-07-19T10:17:33.006Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (27) by GC
+2020-07-19T10:17:33.006Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (25) by GC
+2020-07-19T10:17:33.007Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (39) by GC
+2020-07-19T10:17:33.010Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (6) by GC
+2020-07-19T10:17:33.012Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (50) by GC
+2020-07-19T10:17:33.012Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (26) by GC
+2020-07-19T10:17:33.015Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (9) by GC
+2020-07-19T10:17:33.016Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (22) by GC
+2020-07-19T10:17:33.017Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (23) by GC
+2020-07-19T10:17:33.017Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (28) by GC
+2020-07-19T10:17:33.017Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (29) by GC
+2020-07-19T10:17:33.017Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (30) by GC
+2020-07-19T10:17:33.017Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (31) by GC
+2020-07-19T10:17:33.018Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (32) by GC
+2020-07-19T10:17:33.018Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (33) by GC
+2020-07-19T10:17:33.018Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (34) by GC
+2020-07-19T10:17:33.018Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (35) by GC
+2020-07-19T10:17:33.018Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (58) by GC
+2020-07-19T10:17:33.019Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (36) by GC
+2020-07-19T10:17:33.019Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (37) by GC
+2020-07-19T10:17:33.019Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (38) by GC
+2020-07-19T10:17:33.019Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (40) by GC
+2020-07-19T10:17:33.019Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (41) by GC
+2020-07-19T10:17:33.020Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (42) by GC
+2020-07-19T10:17:33.020Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (43) by GC
+2020-07-19T10:17:33.021Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (44) by GC
+2020-07-19T10:17:33.021Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (45) by GC
+2020-07-19T10:17:33.021Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (46) by GC
+2020-07-19T10:17:33.021Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (47) by GC
+2020-07-19T10:17:33.021Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (48) by GC
+2020-07-19T10:17:33.022Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (49) by GC
+2020-07-19T10:17:33.022Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (49) by GC
+2020-07-19T10:17:33.022Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (51) by GC
+2020-07-19T10:17:33.023Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (52) by GC
+2020-07-19T10:17:33.023Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (53) by GC
+2020-07-19T10:17:33.026Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (54) by GC
+2020-07-19T10:17:33.026Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (55) by GC
+2020-07-19T10:17:33.026Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (15) by GC
+2020-07-19T10:17:33.026Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (16) by GC
+2020-07-19T10:17:33.027Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (17) by GC
+2020-07-19T10:17:33.027Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (18) by GC
+2020-07-19T10:17:33.030Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (20) by GC
+2020-07-19T10:17:33.030Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (55) by GC
+2020-07-19T10:17:33.032Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (62) by GC
+2020-07-19T10:17:33.032Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (84) by GC
+2020-07-19T10:17:33.032Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (80) by GC
+2020-07-19T10:17:33.033Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (85) by GC
+2020-07-19T10:17:33.033Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (58) by GC
+2020-07-19T10:17:33.033Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (47) by GC
+2020-07-19T10:17:33.033Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (14) by GC
+2020-07-19T10:17:33.034Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (45) by GC
+2020-07-19T10:17:33.034Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (46) by GC
+2020-07-19T10:17:33.034Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (21) by GC
+2020-07-19T10:17:33.034Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (56) by GC
+2020-07-19T10:17:33.035Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (48) by GC
+2020-07-19T10:17:33.035Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (57) by GC
+2020-07-19T10:17:33.035Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (52) by GC
+2020-07-19T10:17:33.035Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (53) by GC
+2020-07-19T10:17:33.036Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (59) by GC
+2020-07-19T10:17:33.036Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (60) by GC
+2020-07-19T10:17:33.036Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (61) by GC
+2020-07-19T10:17:33.036Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (63) by GC
+2020-07-19T10:17:33.037Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (64) by GC
+2020-07-19T10:17:33.037Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (65) by GC
+2020-07-19T10:17:33.037Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (56) by GC
+2020-07-19T10:17:33.037Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (57) by GC
+2020-07-19T10:17:33.038Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (59) by GC
+2020-07-19T10:17:33.038Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (60) by GC
+2020-07-19T10:17:33.038Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (66) by GC
+2020-07-19T10:17:33.038Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (67) by GC
+2020-07-19T10:17:33.039Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (69) by GC
+2020-07-19T10:17:33.039Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (82) by GC
+2020-07-19T10:17:33.040Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (83) by GC
+2020-07-19T10:17:33.041Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (86) by GC
+2020-07-19T10:17:33.042Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (87) by GC
+2020-07-19T10:17:33.042Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (88) by GC
+2020-07-19T10:17:33.042Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2020-07-19T10:17:33.109Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2020-07-19T10:17:33.118Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2020-07-19T10:17:33.298Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+2020-07-19T10:17:36.296Z - info: shutdown preview server

@@ -419,53 +419,43 @@
     "meta": 1593854812378,
     "relativePath": "model\\primitives.fbx"
   },
-  "17192163-66a4-4887-83b0-8ae90a479e86": {
-    "asset": 1593190421072,
-    "meta": 1593190421076,
-    "relativePath": "AnimationClip"
-  },
   "1a66e84a-82ce-4b4f-9e9c-74b6f5e97ec1": {
-    "asset": 1593191006990,
+    "asset": 1595153785729,
     "meta": 1593190431878,
     "relativePath": "resources"
   },
   "08a8a209-37f8-4205-a459-78185a764cd9": {
-    "asset": 1594201654263,
+    "asset": 1595153623498,
     "meta": 1593190443358,
     "relativePath": "Scene"
   },
   "f558b2f1-a51e-4196-863f-c5ca792837e0": {
-    "asset": 1594196164628,
+    "asset": 1595153496042,
     "meta": 1593190455312,
     "relativePath": "Script"
   },
   "9aea1be2-f142-4ecc-bfcf-beac4b9c8990": {
-    "asset": 1594199486803,
-    "meta": 1594199486838,
+    "asset": 1595153665517,
+    "meta": 1595153665539,
     "relativePath": "Scene\\Star_1.fire"
   },
-  "6e1d4b75-18f9-4ec3-aa1c-e921c7d007bc": {
-    "asset": 1593190983998,
-    "meta": 1593190984002,
-    "relativePath": "resources\\BGM"
-  },
   "44911b0c-8153-437a-9868-07a587645243": {
-    "asset": 1594109385649,
+    "asset": 1595046879247,
     "meta": 1593190993961,
     "relativePath": "resources\\Prefab"
   },
   "16da093d-02ca-474d-a979-1ec62d9001b6": {
-    "asset": 1593341086260,
+    "asset": 1595046879435,
     "meta": 1593191005423,
     "relativePath": "resources\\Texture"
   },
   "b28b0759-23f2-44c9-9742-4e1dcd493984": {
-    "asset": 1593191009853,
+    "asset": 1595149780681,
     "meta": 1593191009856,
     "relativePath": "resources\\Texture\\Map"
   },
   "148a7ff5-539a-4d76-8ff4-4d1c14f8581f": {
-    "asset": 1593781212380,
+    "asset": 1595046879513,
     "meta": 1593191021965,
     "relativePath": "resources\\Texture\\Only_Demo"
   },
@@ -490,17 +480,17 @@
     "relativePath": "Scene\\Loading.fire"
   },
   "e865ce86-8122-4110-b360-36eeac9a1024": {
-    "asset": 1594196021054,
-    "meta": 1594196021080,
+    "asset": 1595153630080,
+    "meta": 1595153630095,
     "relativePath": "Scene\\Scene_1.fire"
   },
   "a0e6da18-0288-4ee0-baf8-6a983130b622": {
-    "asset": 1594201531003,
+    "asset": 1595046879576,
     "meta": 1593232576132,
     "relativePath": "Script\\BasicLibrary"
   },
   "38f102ec-8f5d-4fc6-9283-aa92c50c3bb8": {
-    "asset": 1593355623109,
+    "asset": 1595046879247,
     "meta": 1593234948065,
     "relativePath": "resources\\Prefab\\Joystick"
   },
@@ -545,7 +535,7 @@
     "relativePath": "Script\\BasicLibrary\\Compass.js"
   },
   "5175068c-5704-4172-9baa-f8422172ae5f": {
-    "asset": 1594216843710,
+    "asset": 1595153345442,
     "meta": 1593336453747,
     "relativePath": "resources\\Prefab\\Player"
   },
@@ -710,7 +700,7 @@
     "relativePath": "resources\\Texture\\Only_Demo\\OFF.png"
   },
   "007f1283-03cb-4a75-8ecb-6810b6cd074a": {
-    "asset": 1594196345817,
+    "asset": 1595046879201,
     "meta": 1593943927792,
     "relativePath": "resources\\Prefab\\InteractiveKey"
   },
@@ -770,7 +760,7 @@
     "relativePath": "resources\\Prefab\\Player\\locking2.png"
   },
   "b0768ffb-cd39-4171-b4d2-2a4bf62900b6": {
-    "asset": 1594201077796,
+    "asset": 1595046879576,
     "meta": 1593946553899,
     "relativePath": "Script\\The_data_folder"
   },
@@ -783,11 +773,6 @@
     "asset": 1594194939903,
     "meta": 1594194941379,
     "relativePath": "Script\\Star_1S.js"
-  },
-  "85d4b7b2-0fd9-4ebc-967e-673273602b8e": {
-    "asset": 1594196164624,
-    "meta": 1594196166485,
-    "relativePath": "Script\\Scene_1S.js"
   },
   "6fbb29de-2b35-4e0d-aa60-480b34f98917": {
     "asset": 1594196345809,
@@ -809,34 +794,34 @@
     "meta": 1594201544339,
     "relativePath": "Script\\BasicLibrary\\Win.js"
   },
-  "45c9a9f5-bb8c-4593-8379-f8b8a6f87324": {
-    "asset": 1594216821148,
-    "meta": 1594216821170,
-    "relativePath": "Scene\\try_move.fire"
-  },
-  "9d7cbc42-5872-4358-9858-1444a5600a1a": {
-    "asset": 1594950094050,
-    "meta": 1594950094046,
+  "076064b9-9153-4842-8aae-d608c7c578ae": {
+    "asset": 1595149780686,
+    "meta": 1595149780682,
     "relativePath": "resources\\Texture\\Map\\try_map"
   },
-  "645d8d77-1ed3-4673-80f2-e7047176b0d7": {
-    "asset": 1594950094017,
-    "meta": 1594950094068,
+  "7aacd4bf-8de9-4235-ad4f-d792086c2017": {
+    "asset": 1595149780651,
+    "meta": 1595153803802,
     "relativePath": "resources\\Texture\\Map\\try_map\\the seed1.tsx"
   },
-  "1b34256b-3c57-43c1-86f2-addf18e0dd4e": {
-    "asset": 1594950094017,
-    "meta": 1594950094626,
+  "4df8e524-7b40-4655-99d1-4006e69ed60b": {
+    "asset": 1595149780652,
+    "meta": 1595153804144,
     "relativePath": "resources\\Texture\\Map\\try_map\\try_map.tmx"
   },
-  "d997c29a-f022-407b-bb05-027fb3176c32": {
-    "asset": 1594950094032,
-    "meta": 1594950094620,
+  "d13b1638-4e8b-40f9-86a2-928bc9734244": {
+    "asset": 1595149780671,
+    "meta": 1595153804135,
     "relativePath": "resources\\Texture\\Map\\try_map\\the seed1.png"
   },
   "99cd70cd-6f6b-47be-a420-6ad3e152f34c": {
-    "asset": 1594950395081,
-    "meta": 1594951571594,
+    "asset": 1595153345430,
+    "meta": 1595153348007,
     "relativePath": "resources\\Prefab\\Player\\Player_1.js"
+  },
+  "85d4b7b2-0fd9-4ebc-967e-673273602b8e": {
+    "asset": 1595153496038,
+    "meta": 1595153500672,
+    "relativePath": "Script\\Scene_1S.js"
   }
 }

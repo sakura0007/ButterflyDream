@@ -28,7 +28,11 @@ cc.Class({
 
         this.Player_to_obstacle = false;
     },
-    start: function start() {},
+    start: function start() {
+        this.TiledLayer = cc.find("Canvas/Map/tiledmap/Walking_Lattice").getComponent(cc.TiledLayer);
+        this.Walking_Lattice = cc.find("Canvas/Map/tiledmap/Walking_Lattice");
+        this.map_TileSize = this.TiledLayer.getMapTileSize();
+    },
     TurnStatic: function TurnStatic() {
         this.Node_Animation = 0;
     },
@@ -67,16 +71,27 @@ cc.Class({
         if (this.Node_Animation == 1) {
             //let force = cc.v2(0, -1000);
             //this.Map.getComponent(cc.RigidBody).applyForceToCenter(force);
-            var newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, this.node.height));
-            var collider = cc.director.getPhysicsManager().testPoint(newVec2);
+            //let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, this.node.height));
+            //let collider = cc.director.getPhysicsManager().testPoint(newVec2);
             //cc.log('newVec2: ' + newVec2 + 'obstacle: ' + cc.find("Canvas/Map/obstacle").getComponent(cc.RigidBody).getWorldPosition());
-            cc.log('name: ' + collider);
-            if (collider) {
-                //cc.log('newVec2: ' + newVec2 + 'obstacle: ' + cc.find("Canvas/Map/win_white").getComponent(cc.RigidBody).getWorldPosition());
-                //cc.log('name: ' + collider.node.name);
-                if (collider.node.name == 'obstacle') {
-                    this.Player_to_obstacle = true;
-                }
+            //if (collider) {
+            //    cc.log('newVec2: ' + newVec2 + 'obstacle: ' + cc.find("Canvas/Map/win_white").getComponent(cc.RigidBody).getWorldPosition());
+            //    cc.log('name: ' + collider.node.name);
+            //    if (collider.node.name == 'obstacle') {
+            //        this.Player_to_obstacle = true;
+            //    }
+            //}
+
+            var newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, this.map_TileSize.height));
+            var newVec3 = cc.find("Canvas/Map").convertToNodeSpaceAR(newVec2);
+            var tile_X = Math.ceil((newVec3.x + this.Walking_Lattice.width / 2) / this.map_TileSize.width) - 1;
+            var tile_Y = Math.ceil((this.Walking_Lattice.height / 2 - newVec3.y) / this.map_TileSize.height) - 1;
+            var tileGid = this.TiledLayer.getTileGIDAt(tile_X, tile_Y);
+            //cc.log('tileGid_is: (' + tile_X + ',' + tile_Y + ')' + tileGid);
+            if (tileGid) {
+                this.Player_to_obstacle = false;
+            } else {
+                this.Player_to_obstacle = true;
             }
             if (!this.Player_to_obstacle) {
                 this.Map.y += -200 * dt;
@@ -86,13 +101,16 @@ cc.Class({
             };
         };
         if (this.Node_Animation == 2) {
-            var _newVec = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(this.node.width, 0));
-            var _collider = cc.director.getPhysicsManager().testPoint(_newVec);
-            if (_collider) {
-                if (_collider.node.name == 'obstacle') {
-                    this.Player_to_obstacle = true;
-                }
-            }
+            var _newVec = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(this.map_TileSize.width, 0));
+            var _newVec2 = cc.find("Canvas/Map").convertToNodeSpaceAR(_newVec);
+            var _tile_X = Math.ceil((_newVec2.x + this.Walking_Lattice.width / 2) / this.map_TileSize.width) - 1;
+            var _tile_Y = Math.ceil((this.Walking_Lattice.height / 2 - _newVec2.y) / this.map_TileSize.height) - 1;
+            var _tileGid = this.TiledLayer.getTileGIDAt(_tile_X, _tile_Y);
+            if (_tileGid) {
+                this.Player_to_obstacle = false;
+            } else {
+                this.Player_to_obstacle = true;
+            };
             if (!this.Player_to_obstacle) {
                 this.Map.x += -200 * dt;
             };
@@ -101,13 +119,16 @@ cc.Class({
             };
         };
         if (this.Node_Animation == 3) {
-            var _newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, -this.node.height));
-            var _collider2 = cc.director.getPhysicsManager().testPoint(_newVec2);
-            if (_collider2) {
-                if (_collider2.node.name == 'obstacle') {
-                    this.Player_to_obstacle = true;
-                }
-            }
+            var _newVec3 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, -this.map_TileSize.height));
+            var _newVec4 = cc.find("Canvas/Map").convertToNodeSpaceAR(_newVec3);
+            var _tile_X2 = Math.ceil((_newVec4.x + this.Walking_Lattice.width / 2) / this.map_TileSize.width) - 1;
+            var _tile_Y2 = Math.ceil((this.Walking_Lattice.height / 2 - _newVec4.y) / this.map_TileSize.height) - 1;
+            var _tileGid2 = this.TiledLayer.getTileGIDAt(_tile_X2, _tile_Y2);
+            if (_tileGid2) {
+                this.Player_to_obstacle = false;
+            } else {
+                this.Player_to_obstacle = true;
+            };
             if (!this.Player_to_obstacle) {
                 this.Map.y += 200 * dt;
             };
@@ -116,12 +137,15 @@ cc.Class({
             };
         };
         if (this.Node_Animation == 4) {
-            var _newVec3 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(-this.node.width, 0));
-            var _collider3 = cc.director.getPhysicsManager().testPoint(_newVec3);
-            if (_collider3) {
-                if (_collider3.node.name == 'obstacle') {
-                    this.Player_to_obstacle = true;
-                }
+            var _newVec5 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(-this.map_TileSize.width, 0));
+            var _newVec6 = cc.find("Canvas/Map").convertToNodeSpaceAR(_newVec5);
+            var _tile_X3 = Math.ceil((_newVec6.x + this.Walking_Lattice.width / 2) / this.map_TileSize.width) - 1;
+            var _tile_Y3 = Math.ceil((this.Walking_Lattice.height / 2 - _newVec6.y) / this.map_TileSize.height) - 1;
+            var _tileGid3 = this.TiledLayer.getTileGIDAt(_tile_X3, _tile_Y3);
+            if (_tileGid3) {
+                this.Player_to_obstacle = false;
+            } else {
+                this.Player_to_obstacle = true;
             };
             if (!this.Player_to_obstacle) {
                 this.Map.x += 200 * dt;

@@ -8,7 +8,7 @@
             displayName: "运动目标地图"
         }
     },
-
+    
     onLoad() {
         this.Node_Animation = 0;
         //物理组件开启
@@ -21,10 +21,12 @@
         //                                            cc.PhysicsManager.DrawBits.e_shapeBit;
 
         this.Player_to_obstacle = false;
-    },-=l
+    },
 
     start () {
-
+        this.TiledLayer = cc.find("Canvas/Map/tiledmap/Walking_Lattice").getComponent(cc.TiledLayer);
+        this.Walking_Lattice = cc.find("Canvas/Map/tiledmap/Walking_Lattice");
+        this.map_TileSize = this.TiledLayer.getMapTileSize();
     },
     TurnStatic() {
         this.Node_Animation = 0;
@@ -64,16 +66,27 @@
         if (this.Node_Animation == 1) {
             //let force = cc.v2(0, -1000);
             //this.Map.getComponent(cc.RigidBody).applyForceToCenter(force);
-            let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, this.node.height));
-            let collider = cc.director.getPhysicsManager().testPoint(newVec2);
+            //let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, this.node.height));
+            //let collider = cc.director.getPhysicsManager().testPoint(newVec2);
             //cc.log('newVec2: ' + newVec2 + 'obstacle: ' + cc.find("Canvas/Map/obstacle").getComponent(cc.RigidBody).getWorldPosition());
-            cc.log('name: ' + collider);
-            if (collider) {
-                //cc.log('newVec2: ' + newVec2 + 'obstacle: ' + cc.find("Canvas/Map/win_white").getComponent(cc.RigidBody).getWorldPosition());
-                //cc.log('name: ' + collider.node.name);
-                if (collider.node.name == 'obstacle') {
-                    this.Player_to_obstacle = true;
-                }
+            //if (collider) {
+            //    cc.log('newVec2: ' + newVec2 + 'obstacle: ' + cc.find("Canvas/Map/win_white").getComponent(cc.RigidBody).getWorldPosition());
+            //    cc.log('name: ' + collider.node.name);
+            //    if (collider.node.name == 'obstacle') {
+            //        this.Player_to_obstacle = true;
+            //    }
+            //}
+
+            let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, this.map_TileSize.height));
+            let newVec3 = cc.find("Canvas/Map").convertToNodeSpaceAR(newVec2);
+            let tile_X = Math.ceil((newVec3.x + this.Walking_Lattice.width / 2) / this.map_TileSize.width) - 1;
+            let tile_Y = Math.ceil((this.Walking_Lattice.height / 2 - newVec3.y) / this.map_TileSize.height) - 1;
+            let tileGid = this.TiledLayer.getTileGIDAt(tile_X, tile_Y);
+            //cc.log('tileGid_is: (' + tile_X + ',' + tile_Y + ')' + tileGid);
+            if (tileGid) {
+                this.Player_to_obstacle = false;
+            } else {
+                this.Player_to_obstacle = true;
             }
             if (!this.Player_to_obstacle) {
                 this.Map.y += -200 * dt;
@@ -83,13 +96,16 @@
             };
         };
         if (this.Node_Animation == 2) {
-            let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(this.node.width, 0));
-            let collider = cc.director.getPhysicsManager().testPoint(newVec2);
-            if (collider) {
-                if (collider.node.name == 'obstacle') {
-                    this.Player_to_obstacle = true;
-                }
-            }
+            let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(this.map_TileSize.width, 0));
+            let newVec3 = cc.find("Canvas/Map").convertToNodeSpaceAR(newVec2);
+            let tile_X = Math.ceil((newVec3.x + this.Walking_Lattice.width / 2) / this.map_TileSize.width) - 1;
+            let tile_Y = Math.ceil((this.Walking_Lattice.height / 2 - newVec3.y) / this.map_TileSize.height) - 1;
+            let tileGid = this.TiledLayer.getTileGIDAt(tile_X, tile_Y);
+            if (tileGid) {
+                this.Player_to_obstacle = false;
+            } else {
+                this.Player_to_obstacle = true;
+            };
             if (!this.Player_to_obstacle) {
                 this.Map.x += -200 * dt;
             };
@@ -98,13 +114,16 @@
             };
         };
         if (this.Node_Animation == 3) {
-            let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, -this.node.height));
-            let collider = cc.director.getPhysicsManager().testPoint(newVec2);
-            if (collider) {
-                if (collider.node.name == 'obstacle') {
-                    this.Player_to_obstacle = true;
-                }
-            }
+            let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(0, -this.map_TileSize.height));
+            let newVec3 = cc.find("Canvas/Map").convertToNodeSpaceAR(newVec2);
+            let tile_X = Math.ceil((newVec3.x + this.Walking_Lattice.width / 2) / this.map_TileSize.width) - 1;
+            let tile_Y = Math.ceil((this.Walking_Lattice.height / 2 - newVec3.y) / this.map_TileSize.height) - 1;
+            let tileGid = this.TiledLayer.getTileGIDAt(tile_X, tile_Y);
+            if (tileGid) {
+                this.Player_to_obstacle = false;
+            } else {
+                this.Player_to_obstacle = true;
+            };
             if (!this.Player_to_obstacle) {
                 this.Map.y += 200 * dt;
             };
@@ -113,12 +132,15 @@
             };
         };
         if (this.Node_Animation == 4) {
-            let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(-this.node.width, 0));
-            let collider = cc.director.getPhysicsManager().testPoint(newVec2);
-            if (collider) {
-                if (collider.node.name == 'obstacle') {
-                    this.Player_to_obstacle = true;
-                }
+            let newVec2 = cc.find("Canvas").convertToWorldSpaceAR(cc.v2(-this.map_TileSize.width, 0));
+            let newVec3 = cc.find("Canvas/Map").convertToNodeSpaceAR(newVec2);
+            let tile_X = Math.ceil((newVec3.x + this.Walking_Lattice.width / 2) / this.map_TileSize.width) - 1;
+            let tile_Y = Math.ceil((this.Walking_Lattice.height/2 - newVec3.y) / this.map_TileSize.height) - 1;
+            let tileGid = this.TiledLayer.getTileGIDAt(tile_X, tile_Y);
+            if (tileGid) {
+                this.Player_to_obstacle = false;
+            } else {
+                this.Player_to_obstacle = true;
             };
             if (!this.Player_to_obstacle) {
                 this.Map.x += 200 * dt;
